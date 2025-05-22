@@ -1,0 +1,10 @@
+.detalhes {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.detail-image {
+  width: 600px;
+  height: auto;
+  border-radius: 8px;
+}

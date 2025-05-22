@@ -1,0 +1,22 @@
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card-image {
+  width: 75%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.card-title {
+  margin-top: 10px;
+}
