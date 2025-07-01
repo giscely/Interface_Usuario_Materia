@@ -1,0 +1,35 @@
+form input{
+    padding: 5px;
+    margin: 10px;
+}
+
+ul {
+    margin: 50px;
+}
+
+ul li{
+    list-style: none;
+    border: 2px solid #FFDAB9;
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.realizada {
+    background-color: #d4edda;
+}
+
+.nao-realizada {
+    background-color: #f8d7da;
+}
+
+.pendente {
+    background-color: #fff3cd;
+}
+
+button {
+    margin-left: 5px;
+    padding: 5px 10px;
+}
